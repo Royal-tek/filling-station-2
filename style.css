@@ -79,3 +79,7 @@ form{
     z-index: 1000;
     font-size: 20px;
 }
+.slider{
+    margin: 0;
+    padding: 0;
+}
