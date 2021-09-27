@@ -71,6 +71,7 @@ form{
 .caret-up{
     position: fixed;
     bottom: 5%;
+    display: none;
     right: 1%;
     padding: 15px;
     /* background-color: gray; */
